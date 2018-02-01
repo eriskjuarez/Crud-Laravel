@@ -1,0 +1,13 @@
+{
+  "name": "bloglaravel",
+  "homepage": "https://github.com/toni254/quejateyaLaravel",
+  "description": "proyecto de laravel para la universidad",
+  "main": "bloglaravel",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "datatables.net-bs4": "^3.2.2",
+    "font-awesome": "Font-Awesome#^4.7.0"
+  }
+}
